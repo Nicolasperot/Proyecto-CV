@@ -9,6 +9,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	min-height: 100vh;
 	padding: 1em;
+	text-align: center !important;
 }
 
 .contenedor {
